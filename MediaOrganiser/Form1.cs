@@ -37,6 +37,7 @@ namespace MediaOrganiser
         {
             var subItems = Directory.GetFiles(path, "*.*", SearchOption.AllDirectories);
             Drive drive = new Drive { Name = path };
+            var x = "random variable";
             foreach(var item in subItems)
             {
                 if (File.Exists(item))
