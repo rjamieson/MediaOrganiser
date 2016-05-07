@@ -1,0 +1,10 @@
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\DataModel.dll.config
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\DataModel.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\DataModel.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\EntityFramework.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\EntityFramework.xml
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\obj\Debug\DataModel.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\DataModel\obj\Debug\DataModel.pdb

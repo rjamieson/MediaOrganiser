@@ -1,0 +1,17 @@
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\MediaOrganiser.exe.config
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.csprojResolveAssemblyReference.cache
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.Properties.Resources.resources
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.csproj.GenerateResource.Cache
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\MediaOrganiser.exe
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\MediaOrganiser.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\DataModel.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\EntityFramework.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\DataModel.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\EntityFramework.xml
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.exe
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\DAL.dll
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\bin\Debug\DAL.pdb
+c:\users\rachel\documents\visual studio 2015\Projects\MediaOrganiser\MediaOrganiser\obj\Debug\MediaOrganiser.Form1.resources
